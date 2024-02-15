@@ -1,0 +1,27 @@
+{
+  "moduleInstanceId": "Page1_p1_1",
+  "isPublic": true,
+  "rootModuleInstanceId": "Page1_p1_1",
+  "pluginType": "JS",
+  "pluginId": "js-plugin",
+  "unpublishedAction": {
+    "name": "myFun2",
+    "fullyQualifiedName": "_$p1_1$_p1.myFun2",
+    "pageId": "Page1",
+    "contextType": "PAGE",
+    "collectionId": "Page1__$p1_1$_p1",
+    "executeOnLoad": true,
+    "clientSideExecution": true,
+    "isValid": true,
+    "invalids": [],
+    "messages": [],
+    "userSetOnLoad": true,
+    "confirmBeforeExecute": false,
+    "policies": [],
+    "userPermissions": [],
+    "createdAt": "2024-01-23T10:08:34Z"
+  },
+  "id": "Page1__$p1_1$_p1.myFun2",
+  "deleted": false,
+  "gitSyncId": "65ce02d958daae6e012e2ce6_65ce02eb58daae6e012e2cfb"
+}

@@ -26,7 +26,34 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Page1__$p1_1$_p1.myFun1",
+              "name": "_$p1_1$_p1.myFun1",
+              "collectionId": "Page1__$p1_1$_p1",
+              "clientSideExecution": true,
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "function () {}"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Page1__$p1_1$_p1.myFun2",
+              "name": "_$p1_1$_p1.myFun2",
+              "collectionId": "Page1__$p1_1$_p1",
+              "clientSideExecution": true,
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "async function () {}"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
         "id": "Page1",

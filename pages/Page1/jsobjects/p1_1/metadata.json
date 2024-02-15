@@ -1,0 +1,18 @@
+{
+  "moduleInstanceId": "Page1_p1_1",
+  "isPublic": true,
+  "rootModuleInstanceId": "Page1_p1_1",
+  "unpublishedCollection": {
+    "name": "_$p1_1$_p1",
+    "pageId": "Page1",
+    "contextType": "PAGE",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "userPermissions": []
+  },
+  "id": "Page1__$p1_1$_p1",
+  "deleted": false,
+  "gitSyncId": "65ce02d958daae6e012e2ce6_65ce02eb58daae6e012e2cfc"
+}
